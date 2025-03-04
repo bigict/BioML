@@ -1,7 +1,3 @@
-[submodule "GPT"]
-	path = GPT
-	url = git@github.com:bigict/GPT.git
-	branch = main
 [submodule "BERT"]
 	path = BERT
 	url = git@github.com:bigict/BERT.git
