@@ -6,3 +6,6 @@
 	path = EVE
 	url = git@github.com:OATML-Markslab/EVE.git
 	branch = main
+[submodule "GPT"]
+	path = GPT
+	url = git@github.com:jiangyuan1018/GPT.git
