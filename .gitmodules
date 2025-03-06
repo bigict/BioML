@@ -9,3 +9,4 @@
 [submodule "GPT"]
 	path = GPT
 	url = git@github.com:jiangyuan1018/GPT.git
+	branch = main
