@@ -1,6 +1,6 @@
 [submodule "BERT"]
 	path = BERT
-	url = git@github.com:bigict/BERT.git
+	url = git@github.com:Cliffest/BERT.git
 	branch = main
 [submodule "EVE"]
 	path = EVE
