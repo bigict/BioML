@@ -1,7 +1,3 @@
-[submodule "BERT"]
-	path = BERT
-	url = git@github.com:Cliffest/BERT.git
-	branch = main
 [submodule "EVE"]
 	path = EVE
 	url = git@github.com:OATML-Markslab/EVE.git
@@ -11,3 +7,6 @@
 	url = git@github.com:jiangyuan1018/GPT.git
 	branch = main
 
+[submodule "BERT"]
+	path = BERT
+	url = git@github.com:Cliffest/BERT.git
